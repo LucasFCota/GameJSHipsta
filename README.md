@@ -1,4 +1,5 @@
-# GameJSHipsta
-Um game produzido em JavaScript durante uma imersão da Alura.
-
-<iframe src="https://editor.p5js.org/LucasFCota/embed/qBinx04ib"></iframe>
+# GameJSHipsta  
+Um game produzido em JavaScript com a biblioteca p5js durante um curso imersão da Alura.
+---
+# Clique no link abaixo para testá-lo!  
+https://editor.p5js.org/LucasFCota/full/qBinx04ib
