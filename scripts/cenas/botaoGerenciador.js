@@ -9,6 +9,10 @@ class BotaoGerenciador{
   draw(){
     this.botao.class('button');
     this.botao.position(this.x, this.y);
-    this.botao.mousePressed(() => {cenaAtual = 'jogo'; this.botao.remove();});
+    this.botao.mousePressed(() => {
+      cenaAtual = 'jogo';
+      this.botao.remove();
+      somDoJogo.loop();
+    });
   }
 }

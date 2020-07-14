@@ -3,9 +3,8 @@ function setup() {
   cnv.position((windowWidth/2)-400, (windowHeight/2)-300);
   
   frameRate(30);//30Hz
-  somDoJogo.loop();
-  somDoJogo.setVolume(0.3);
   jogo = new Jogo();
+  somDoJogo.setVolume(0.2);
   telaInicial = new TelaInicial();
   botaoGerenciador = new BotaoGerenciador('Iniciar', (windowWidth/2)-50, windowHeight*0.7);
   jogo.setup();
