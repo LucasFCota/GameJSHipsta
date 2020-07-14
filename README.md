@@ -4,4 +4,4 @@ Um game produzido em JavaScript com a biblioteca p5js durante um curso imersão 
 ## Clique no link abaixo para testá-lo!  
 https://editor.p5js.org/LucasFCota/present/qBinx04ib  
 
-![alt text](https://github.com/LucasFCota/GameJSHipsta/imagens/screenshot "Bruxinha Hipsta e as Lagrimas do Troll")
+![alt text](https://github.com/LucasFCota/GameJSHipsta/blob/master/imagens/Screenshot.png "Bruxinha Hipsta e as Lagrimas do Troll")
