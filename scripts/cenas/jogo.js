@@ -55,6 +55,7 @@ class Jogo{
       if(vida.vidas === 0){
         image(imagemGameOver, width/2 -200, height/3);
         noLoop();
+        somDoJogo.stop();
       }
     }
   }

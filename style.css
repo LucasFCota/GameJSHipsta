@@ -1,7 +1,30 @@
+@font-face {
+  font-family: "Tela Inicial";
+  src: url("imagens/assets/fonteTelaInicial.otf");
+}
+
 html, body {
   margin: 0;
   padding: 0;
+  background-color: #555
 }
 canvas {
   display: block;
+}
+
+.button {
+  font-family: "Tela Inicial";
+  border-color: #333;
+  background: #555;
+  color: white;
+  width: 100px;
+  height: 40px;
+  border-radius: 5px;
+  font-size: 30px;
+  cursor: pointer;
+  transition-duration: 0.4s;
+}
+
+.button:hover {
+  background-color: #333;
 }
